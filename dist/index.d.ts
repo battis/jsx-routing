@@ -1,5 +1,5 @@
-import { PageHandler, PageOptions, RouterOptions } from 'vanilla-router';
-import RequireInitialization from '@battis/require-init';
+import { PageHandler, PageOptions, RouterOptions } from "vanilla-router";
+import RequireInitialization from "@battis/require-init";
 export { PageHandler };
 /**
  * Static wrapper for vanilla-router/Router instance
